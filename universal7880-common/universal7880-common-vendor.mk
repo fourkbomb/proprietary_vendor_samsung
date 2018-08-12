@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal7880-common/proprietary/etc/firmware/utfbd32.bin:system/etc/firmware/utfbd32.bin \
     vendor/samsung/universal7880-common/proprietary/etc/nfc/sec_s3nrn81_rfreg.bin:system/etc/nfc/sec_s3nrn81_rfreg.bin \
     vendor/samsung/universal7880-common/proprietary/lib/hw/camera.vendor.exynos5.so:system/lib/hw/camera.vendor.exynos5.so \
+    vendor/samsung/universal7880-common/proprietary/lib/hw/gralloc.vendor.exynos5.so:system/lib/hw/gralloc.vendor.exynos5.so \
     vendor/samsung/universal7880-common/proprietary/lib/hw/nfc_nci.universal7880.so:system/lib/hw/nfc_nci.universal7880.so \
     vendor/samsung/universal7880-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/universal7880-common/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
@@ -93,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal7880-common/proprietary/lib/omx/libOMX.Exynos.VP9.Decoder.so:system/lib/omx/libOMX.Exynos.VP9.Decoder.so \
     vendor/samsung/universal7880-common/proprietary/lib64/hw/camera.vendor.exynos5.so:system/lib64/hw/camera.vendor.exynos5.so \
     vendor/samsung/universal7880-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
+    vendor/samsung/universal7880-common/proprietary/lib64/hw/gralloc.vendor.exynos5.so:system/lib64/hw/gralloc.vendor.exynos5.so \
     vendor/samsung/universal7880-common/proprietary/lib64/hw/nfc_nci.universal7880.so:system/lib64/hw/nfc_nci.universal7880.so \
     vendor/samsung/universal7880-common/proprietary/lib64/hw/sensorhubs.universal7880.so:system/lib64/hw/sensorhubs.universal7880.so \
     vendor/samsung/universal7880-common/proprietary/lib64/hw/sensors.universal7880.so:system/lib64/hw/sensors.universal7880.so \
